@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>sakyra_kit</title>
+    </head>
+    <body style="background-color:DarkOrchid; font-family:solid;">
+        <header style="background-color:lightblue;">
+            <a style="color:black;" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> как мы делаем?</a>
+            <img style="text-align:center" src="https://cdn-icons-png.freepik.com/512/1889/1889510.png?clckid=9ee0bb74" width="50" height="50">
+            <a style="color:black; text-align:right" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"> кто мы... </a>
+        </header>
+        <main>
+            <br>
+            <img src="https://www.veka-portal.ru/files/353/stat-vidyi-plastikovyih-o.jpg">
+            <h1 style="color:white; background-color:Orchid;">Мы делаем окна в разных стилях</h1>
+            <p style="background-color:Orchid; color:white; font-size:20px;">хотите заказть окна, но не знаете где?<br>
+            закажите уникальное предложение у нашей компании,<br>
+            но если вы позвоните прямо сейчас то получите окна<br>
+            на целую 1 копейку дешевле</p>
+            <div><img src="https://cdn-icons-png.freepik.com/512/3815/3815803.png" width="100" height="100"><img src="https://cdn-icons-png.freepik.com/512/10641/10641443.png" width="100" height="100"><img src="https://cdn-icons-png.freepik.com/512/7337/7337825.png" width="100" height="100"></div>
+
+            <h1 style="color:white; background-color:Orchid;">процесс работы</h1>
+            <p style="background-color:Orchid; color:white; font-size:20px;">
+            Что то делаем<br>
+            потом еще<br>
+            и ещё<br>
+            и продаём вам</p>
+            <div><img src="https://cdn-icons-png.freepik.com/512/7754/7754933.png" width="100" height="100"><img src="https://cdn-icons-png.freepik.com/512/11591/11591786.png" width="100" height="100"><img src="https://cdn-icons-png.freepik.com/512/14701/14701645.png" width="100" height="100"></div>
+
+            <h1 style="color:white;">Мы известные на всю страну</h1>
+            <p style="color:white;">Нашы окна даже у президента</p>
+            <table style="color:white; border: 1px solid red;">
+                <tr>
+                    <td style="border:1px solid red"></td>
+                    <td style="border:1px solid red">кол-во</td>
+                    <td style="border:1px solid red">цена</td>
+                </tr>
+                <tr>
+                    <td style="border:1px solid red">деревянные</td>
+                    <td style="border:1px solid red">1-10</td>
+                    <td style="border:1px solid red">10.000 руб</td>
+                </tr>
+                <tr>
+                    <td style="border:1px solid red">бетонные</td>
+                    <td style="border:1px solid red">1-5</td>
+                    <td style="border:1px solid red">100.000 руб</td>
+                </tr>
+            </table>
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStK2-a_TULg3TI9E-xNqHnh58kpj5LiKvG2A&s" width="600">
+
+        </main>
+        <footer style="color:black; background-color:DodgerBlue;">
+            <p style="font-size:15px"> улица зеленая 15</p>
+            <p>Тел.: +79854328204</p>
+        </footer>
+    </body>
+</html>
+
+<!-- обратная связь в подвале -->
